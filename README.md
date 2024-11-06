@@ -30,8 +30,8 @@ project_root/
 
 A custom curated gesture dataset is introduced comprising over 200 high-resolution images capturing a wide range of hand gestures. The dataset encompasses various
 orientations, lighting conditions, and backgrounds, ensuring that the system can effectively learn and generalize patterns associated with different gestures.
-The dataset was meticulously labeled, with each image annotated with the corresponding hand gesture class. This labeling process involved manual inspection and verification by the authors, ensuring accurate ground truth labels for
-training and evaluation purposes.
+The dataset was meticulously labeled, with each image annotated with the corresponding hand gesture class. This labeling process involved manual inspection and verification by the authors, ensuring accurate ground truth labels for training and evaluation purposes.
+<img width="493" alt="Screenshot 2024-11-06 at 11 16 19 AM" src="https://github.com/user-attachments/assets/c699430a-c3d0-40f2-bc5d-e5753ebb56ac">
 
 
 ## Results
@@ -44,6 +44,8 @@ training and evaluation purposes.
 | F1 Score          | 0.9731 |
 | Precision         | 1.0000 |
 | Recall            | 0.975  |
+
+<img width="474" alt="Screenshot 2024-11-06 at 11 16 33 AM" src="https://github.com/user-attachments/assets/fe8a671f-f24e-47cd-a8fa-ed4f943432f4">
 
 ## Acknowledgements
 
